@@ -1,7 +1,7 @@
-# YouTube Android Player API for Gradle
-[YouTube Android Player API](https://developers.google.com/youtube/android/player/) packaged as Gradle dependency for Android.
+# YouTube Android Player API available as a gradle dependency
+[Link to Documentation](https://developers.google.com/youtube/android/player/)
 
-## Usage
+## How to Use
 
 #### Step 1
 
@@ -22,21 +22,8 @@ Add the dependency:
 
 ```gradle
 dependencies {
-	compile 'com.github.davidmigloz:youtube-android-player-api-gradle:1.2.2.1'
+	compile 'com.github.carrotsense:carrot-youtube-media-player-android:1.0.1'
 }
-```
-
-## Versions supported
-
-- YouTubeAndroidPlayerApi v1.2.2
-
-## API levels
-
-```gradle
-minSdkVersion 19
-targetSdkVersion 27
-compileSdkVersion 27
-buildToolsVersion "27.0.3"
 ```
 
 ## License
