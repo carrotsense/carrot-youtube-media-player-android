@@ -1,5 +1,4 @@
-# YouTube Android Player API for Gradle [![](https://jitpack.io/v/davidmigloz/youtube-android-player-api-gradle.svg)](https://jitpack.io/#davidmigloz/youtube-android-player-api-gradle)
-
+# YouTube Android Player API for Gradle
 [YouTube Android Player API](https://developers.google.com/youtube/android/player/) packaged as Gradle dependency for Android.
 
 ## Usage
