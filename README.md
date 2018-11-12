@@ -22,7 +22,7 @@ Add the dependency:
 
 ```gradle
 dependencies {
-	compile 'com.github.carrotsense:carrot-youtube-media-player-android:1.0.1'
+	implementation 'com.github.carrotsense:carrot-youtube-media-player-android:1.0.2'
 }
 ```
 
