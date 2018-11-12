@@ -7,6 +7,6 @@ repositories {
     maven { url "https://jitpack.io" }
 }
 dependencies {
-    implementation 'com.github.carrotsense.carrot-youtube-media-player-android:youtube-player:1.0.0'
+    implementation 'com.github.carrotsense:carrot-youtube-media-player-android:1.0.0'
 }
 ```
